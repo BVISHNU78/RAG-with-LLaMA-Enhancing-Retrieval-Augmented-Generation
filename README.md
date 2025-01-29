@@ -1,3 +1,4 @@
+![download](https://github.com/user-attachments/assets/c47ef60d-219e-481f-a609-d88dd4b84af9)
 ![download](https://github.com/user-attachments/assets/ea577cae-35f7-4210-b80d-356017bb4952)
 # RAG-with-LLaMA-Enhancing-Retrieval-Augmented-Generation
 Retrieval-Augmented Generation (RAG) system using Meta’s LLaMA to improve response quality with external knowledge.
